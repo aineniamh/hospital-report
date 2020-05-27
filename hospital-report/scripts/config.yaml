@@ -1,0 +1,4 @@
+outdir: ../../report_244_1B
+metadata: ../data/cog_2020-05-22_metadata.csv
+query_csv: ../../244_1B.txt
+fasta: ../../consensus_from_gridion.2020-05-18.fasta
